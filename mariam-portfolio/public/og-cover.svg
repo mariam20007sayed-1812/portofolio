@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" fill="none">
+  <rect width="1200" height="630" rx="32" fill="#08131D"/>
+  <rect x="40" y="40" width="1120" height="550" rx="28" fill="url(#paint0_linear_1_2)" stroke="#1E3C5D"/>
+  <circle cx="860" cy="200" r="170" fill="#56CCFF" fill-opacity="0.2"/>
+  <circle cx="960" cy="360" r="130" fill="#7E8BF6" fill-opacity="0.18"/>
+  <text x="110" y="260" fill="#EAF7FF" font-family="Segoe UI, Arial, sans-serif" font-size="78" font-weight="700">Mariam Sayed</text>
+  <text x="110" y="340" fill="#A5D9FF" font-family="Segoe UI, Arial, sans-serif" font-size="38" font-weight="600">AI &amp; Data Science Student</text>
+  <text x="110" y="420" fill="#C8D7EA" font-family="Segoe UI, Arial, sans-serif" font-size="30">Computer Science • Ain Shams University • Giza, Egypt</text>
+  <rect x="110" y="470" width="220" height="54" rx="27" fill="#66D9FF"/>
+  <text x="170" y="505" fill="#07131E" font-family="Segoe UI, Arial, sans-serif" font-size="24" font-weight="700">Portfolio</text>
+  <defs>
+    <linearGradient id="paint0_linear_1_2" x1="120" y1="120" x2="1120" y2="520" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#122A42"/>
+      <stop offset="1" stop-color="#091724"/>
+    </linearGradient>
+  </defs>
+</svg>
